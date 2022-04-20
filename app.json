@@ -1,6 +1,6 @@
 {
-  "name": "ss-heroku",
-  "description": "ss-heroku",
+  "name": "soku",
+  "description": "soku",
   "env": {
     "METHOD": {
       "description": "加密算法",
